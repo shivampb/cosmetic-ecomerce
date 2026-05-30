@@ -1,0 +1,6 @@
+{
+  "name": "Premium Cosmetic Brand",
+  "description": "A high-end, minimalist cosmetic brand website focusing on a stunning full-screen video hero section with bottom-left typography.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
