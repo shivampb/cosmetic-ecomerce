@@ -13,7 +13,7 @@ export default function Hero() {
           className="w-full h-full object-cover object-center"
         >
           <source
-            src="https://mega.nz/file/v2ZEFS5C#cYOqsJYg8tYGocFSkcTYj-zdKpOdjDP3KEEgrY7wQ9U"
+            src="https://res.cloudinary.com/dts7dm26a/video/upload/v1780132850/6154044-uhd_4096_2160_25fps_svau5x.mp4"
             type="video/mp4"
           />
           Your browser does not support the video tag.
